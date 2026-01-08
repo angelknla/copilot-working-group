@@ -72,7 +72,7 @@ describe('ProductDetail', () => {
         isLoading: false,
         isError: false,
         error: null,
-        
+
       } as any);
 
       renderWithProviders(<ProductDetail />);
@@ -93,7 +93,7 @@ describe('ProductDetail', () => {
         isLoading: false,
         isError: false,
         error: null,
-        
+
       } as any);
 
       renderWithProviders(<ProductDetail />);
@@ -107,7 +107,7 @@ describe('ProductDetail', () => {
         isLoading: false,
         isError: false,
         error: null,
-        
+
       } as any);
 
       renderWithProviders(<ProductDetail />);
@@ -124,7 +124,7 @@ describe('ProductDetail', () => {
         isLoading: false,
         isError: false,
         error: null,
-        
+
       } as any);
 
       renderWithProviders(<ProductDetail />);
